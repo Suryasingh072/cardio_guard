@@ -43,4 +43,4 @@ A dummy RandomForest model is used for demo purposes (random data). You can repl
 
 ---
 
-## 👨‍💻 Made with ❤️ by Team CardioGuard
+## 👨‍💻 Made with ❤️ by mini coder
